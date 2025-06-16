@@ -1,7 +1,7 @@
 ![movie](https://github.com/user-attachments/assets/886ae0ce-1e3f-4d59-907f-936f59af1c53)
 # DATA-MANAGEMENT-Assignment-3 
 ## 1. Executive Summary 
-- This report details the comprehensive analysis of the MovieLens 100k dataset using Apache Spark within the Zeppelin notebook environment. The analysis explored user demographics, movie ratings, and user preferences to identify key patterns and insights. Key findings reveal the highest-rated movies, most active users, demographic segments, and relationships between user characteristics and movie preferences. 
+- This report details the comprehensive analysis of the MovieLens 100k dataset using Apache Spark, Cassandra and PUTTY. The analysis explored user demographics, movie ratings, and user preferences to identify key patterns and insights. Key findings reveal the highest-rated movies, most active users, demographic segments, and relationships between user characteristics and movie preferences. 
 
 ## 2. Project Overview 
 - **Objective**: To gain actionable insights from user behavior and movie ratings data 
