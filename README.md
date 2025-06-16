@@ -5,13 +5,13 @@
 
 ## 2. Project Overview 
 - **Objective**: To gain actionable insights from user behavior and movie ratings data 
-- **Tools Used**: Apache Spark 2, Zeppelin Notebook, Scala 
+- **Tools Used**: Apache Spark 2, Cassandra, PUTTY 
 - **Data Source**: MovieLens 100k dataset
 - **Dataset Characteristics**: Users: 943, Movies: 1682, Ratings: 100000
 
 ## 3. Dataset Description
 - **User**: userID, age, gender, occupation, zip code. 
-- **Movies**: movieID, title, release data, video release date, IMDb URL.
+- **Movies**: movieID, title, release data, video release date, IMDb URL, genre
 - **Ratings**: userID, movieID, rating, timestamp
 
 ## 4. Results and Analysis 
