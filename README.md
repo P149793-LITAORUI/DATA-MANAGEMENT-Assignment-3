@@ -20,11 +20,12 @@
 ### 4.2 Identify the top ten movies with the highest average ratings 
 ![Q2](https://github.com/user-attachments/assets/85c9de4a-0a34-4fa6-8d13-48961f866a37) 
 ### 4.3 Find the users who have rated at least 50 movies and identify their favourite movie genres 
-![Q3](https://github.com/user-attachments/assets/fa5338df-11fd-4709-b69d-6c3ab556632a) 
+![Q3](https://github.com/user-attachments/assets/909f545c-5263-4593-aeb9-8a7fa3932df5) 
 ### 4.4 Find all the users who are less than 20 years old 
 ![Q4](https://github.com/user-attachments/assets/7a3e1350-9ebc-4753-b37d-814bd44a750a) 
 ### 4.5 Find all the users whose occupation is “scientist” and whose age is between 30 and 40 years old 
-![Q5](https://github.com/user-attachments/assets/58f67217-0908-4261-b597-6e029abc898e) 
+![Q5](https://github.com/user-attachments/assets/6da4d6f5-08b5-4d48-b4a5-2eb52adb4df7) 
+
 
 
 
