@@ -14,7 +14,7 @@
 - **Movies**: movieID, title, release data, video release date, IMDb URL, genre
 - **Ratings**: userID, movieID, rating, timestamp
 
-## 4. Results and Analysis 
+## 4. Questions and Answer 
 ### 4.1 Calculate the average rating for each movie(Order by movie_id) 
 ![Q1](https://github.com/user-attachments/assets/dba4fbc4-6d52-40d8-bfdc-ecd7982553ec) 
 ### 4.2 Identify the top ten movies with the highest average ratings(Order by avg_rating) 
